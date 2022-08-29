@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx9af17ab110588229",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "9969ceb40432262c339af695bf7a6180",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "Uu0-wFZC7QvsucgxBYx3lnc8--7da_-r1JwvUYEMJGg",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["oRhiO6d7fjGsiBCLc2N2oKhOoOG4"],
      
     /**
      * 信息配置
@@ -19,24 +19,23 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "四川",
     // 所在城市
-    CITY: "惠州",
+    CITY: "成都",
 
     /** 生日相关 */
 
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
     BIRTHDAYS: [
-      {"name": "老婆", "year": "1993", "date": "12-27"},
-      {"name": "家公", "year": "1993", "date": "08-09"},
+      {"name": "老婆", "year": "2003", "date": "03-23"},
+      {"name": "老公", "year": "2003", "date": "05-20"},
     ],
 
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
-    // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    LOVE_DATE: "2022-03-29",
+    
 
 
     /** 好文节选 */
