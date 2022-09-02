@@ -8,7 +8,7 @@ export const config = {
     // 公众号APP_SECRET
     APP_SECRET: "9969ceb40432262c339af695bf7a6180",
     // 模板消息id
-    TEMPLATE_ID: "Uu0-wFZC7QvsucgxBYx3lnc8--7da_-r1JwvUYEMJGg",
+    TEMPLATE_ID: "KiKAHSvZZSGf_DWkwwvbo1wJoD4Slz3KVLCV3yyktJs",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["oRhiO6fUm-LiO7KDVkIseaogOjts","oRhiO6d7fjGsiBCLc2N2oKhOoOG4"],
      
@@ -42,7 +42,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "宝宝我就是因为你和你朋友天天玩然后不陪我我吃醋嘛，你这个大傻蛋这个都不明白，我就是语气冲了点，又觉得自己很没用，无法带给你快乐，你只有和你朋友在一起的时候你才会快乐，真的会让我质疑我存在的意义，你你你还和我冲，我我也很委屈好不好，作比较，我认为你比我任何朋友都重要，我的生活除了工作只剩下了你，我说就这样吧你还就这样吧，就这样个大头鬼！！你换位思考一下嘛！！气死我了！好吧对不起我不该发小脾气，错了宝宝，我不能离开你（委屈）"
 
 
     }
